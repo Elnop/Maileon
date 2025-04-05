@@ -1,0 +1,16 @@
+{
+  "name": "maileon",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "send": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "type": "module",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "nodemailer": "^6.10.0"
+  }
+}
