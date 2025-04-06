@@ -17,7 +17,7 @@ Maileon is a command-line tool that allows you to quickly send emails using your
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/maileon.git cd maileon
+git clone https://github.com/Elnop/Maileon.git cd maileon
 ```
 2. Install dependencies:
 ```bash
